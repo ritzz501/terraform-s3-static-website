@@ -1,0 +1,1 @@
+bucket_name = "rutvik-static-website-2026"
